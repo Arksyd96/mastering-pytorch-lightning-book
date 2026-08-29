@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assert/cover.jpeg" alt="Mastering PyTorch and Lightning book cover" width="360">
+<img src="assets/cover.jpg" alt="Mastering PyTorch and Lightning book cover" width="360">
 
 # Mastering PyTorch and Lightning
 
