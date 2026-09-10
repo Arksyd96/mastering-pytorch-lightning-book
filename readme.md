@@ -137,18 +137,9 @@ Drawing on more than six years of experience with PyTorch and PyTorch Lightning,
 
 The companion code is most useful when followed alongside the explanations, diagrams, gotchas, checkpoints, and QA sections in the complete ebook.
 
-**[View the ebook on Amazon](https://www.amazon.fr/Mastering-PyTorch-Lightning-Step-Step-ebook/dp/B0HGNZS55V)**
-
-The Amazon URL is currently a placeholder and should be replaced when the product page becomes available.
+**[View the ebook here](https://www.amazon.fr/Mastering-PyTorch-Lightning-Step-Step-ebook/dp/B0HGNZS55V)**
 
 ## Feedback and Contributions
 
 If you find an issue in an example or have a suggestion that improves the learning experience, open an issue with the relevant chapter, environment details, and a minimal reproduction when possible.
 
----
-
-<div align="center">
-
-**Build the foundations. Understand the mechanics. Scale with confidence.**
-
-</div>
